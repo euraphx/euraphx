@@ -3,6 +3,6 @@
 - 📫 Discord: raphadev_
 -
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=raphms&align=center)  
+  <a href="">![](https://komarev.com/ghpvc/?username=raphms&align=center)</a>
 </div>
   
