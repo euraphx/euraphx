@@ -1,5 +1,5 @@
-<p align="center">raphxms</p>
-  - 🌱 I’m currently studying: CS50
-  - 📫 Discord: raphadev_
+<p align="center">
+  raphxms
+  ![](https://komarev.com/ghpvc/?username=raphms)
+</p>
 
-![](https://komarev.com/ghpvc/?username=raphms)
